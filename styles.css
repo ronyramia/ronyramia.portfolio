@@ -115,7 +115,7 @@ section {
 
 .photo img {
   width: 260px;
-  height: 400px;
+  height: 460px;
   border-radius: 50%;
   object-fit: cover;
   border: 5px solid #091d35;
@@ -342,4 +342,5 @@ section {
     gap: 15px;
   }
 }
+
 
